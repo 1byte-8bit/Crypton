@@ -2,8 +2,8 @@
 
 The Crypto coin converter to cash.
 
-<img title="a title" alt="Alt text" src="https://github.com/1byte-8bit/Crypton/blob/main/main_coin.gif?raw=true">
-<img title="a title" alt="Alt text" src="https://github.com/1byte-8bit/Crypton/blob/main/add_coin.gif?raw=true">
+<p align="left"> <img src="https://github.com/1byte-8bit/Crypton/blob/main/main_coin.gif?raw=true"> </p>
+<p align="right"> <img src="https://github.com/1byte-8bit/Crypton/blob/main/add_coin.gif?raw=true"> </p>
 
 ## Getting started
 
