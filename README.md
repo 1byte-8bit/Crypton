@@ -2,6 +2,8 @@
 
 The Crypto coin converter to cash.
 
+<img title="a title" alt="Alt text" src="https://github.com/1byte-8bit/Crypton/2023-08-12 16.06.37.mp4?raw=true">
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
